@@ -1,7 +1,7 @@
 <img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/16ac758c-faf8-41ce-8f0a-9df0357f91a0" /># Jarvis AI – My Personal Voice Assistant
 )
 
-<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/61b252a4-abea-43d1-8f06-9bac9a2d2aed" />
+
 
 Ever since I was a child, I have been fascinated by **Iron Man** and his intelligent AI assistant, **J.A.R.V.I.S.** Watching Tony Stark interact with a voice assistant that could understand commands, answer questions, automate tasks, and make everyday life easier inspired me to build something similar one day. Creating my own version of Jarvis has been a long-standing dream and one of the projects I was most excited to bring to life.
 
