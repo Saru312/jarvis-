@@ -1,4 +1,5 @@
 # Jarvis AI – My Personal Voice Assistant
+![Uploading image.png…]()
 
 Ever since I was a child, I have been fascinated by **Iron Man** and his intelligent AI assistant, **J.A.R.V.I.S.** Watching Tony Stark interact with a voice assistant that could understand commands, answer questions, automate tasks, and make everyday life easier inspired me to build something similar one day. Creating my own version of Jarvis has been a long-standing dream and one of the projects I was most excited to bring to life.
 
